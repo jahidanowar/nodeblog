@@ -7,6 +7,7 @@ an open source nodejs light weight blog api
 3. Thumbnails
 4. User authentication
 5. Inbuilt Comments
+6. Multi Lingual
 
 ## Usages
 Create ```.env``` file in roots connect your Mongodb URI then run
